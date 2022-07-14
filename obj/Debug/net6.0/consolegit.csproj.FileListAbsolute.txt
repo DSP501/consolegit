@@ -1,0 +1,15 @@
+D:\DSP\work\LTI\Inhouse\devops\consolegit\bin\Debug\net6.0\consolegit.exe
+D:\DSP\work\LTI\Inhouse\devops\consolegit\bin\Debug\net6.0\consolegit.deps.json
+D:\DSP\work\LTI\Inhouse\devops\consolegit\bin\Debug\net6.0\consolegit.runtimeconfig.json
+D:\DSP\work\LTI\Inhouse\devops\consolegit\bin\Debug\net6.0\consolegit.dll
+D:\DSP\work\LTI\Inhouse\devops\consolegit\bin\Debug\net6.0\consolegit.pdb
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.csproj.AssemblyReference.cache
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.AssemblyInfoInputs.cache
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.AssemblyInfo.cs
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.csproj.CoreCompileInputs.cache
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.dll
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\refint\consolegit.dll
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.pdb
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\consolegit.genruntimeconfig.cache
+D:\DSP\work\LTI\Inhouse\devops\consolegit\obj\Debug\net6.0\ref\consolegit.dll
